@@ -1,0 +1,215 @@
+nav {
+background-color: #121220;
+padding-bottom: 2%;
+}
+.Portal{
+	width: 500px;
+	height: 80px;
+	margin-left: 1.5%;
+}
+.Logo{
+	width: 300px;
+	height: 60px;
+	margin-left: 1.5%;
+}
+#titlePortal{
+	color: white;
+	padding-left: 2.5%;
+	font-weight: bold;
+	font-size: 18px;
+
+}
+nav ul{
+	list-style-type: none;
+}
+.ul1{
+	border-bottom: double 10px black;
+
+}
+.l1{
+	color: white;
+	background-color: #444444;
+	box-sizing: border-box;
+	padding: 1%;
+	margin-left: 15%;
+	font-size: 20px;
+}
+.l2{
+	color: white;
+	background-color:red;
+	box-sizing: border-box;
+	padding: 1%;
+	margin-left: 1.5%;
+	font-size: 20px;
+}
+#menu{
+	color: white;
+	text-decoration: underline overline;
+	float: left;
+	margin-top: 10px;
+	font-weight: bolder;
+	font-size: 25px;
+}
+nav li{
+	display: inline-flex;
+}
+.ul2{
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 2%;
+	font-weight: bold;
+}
+#div1{
+	display: flex;
+	border-bottom: double 10px #EEEEEE;
+}
+#div3{
+	display: flex;
+	justify-content: space-between;
+	border-bottom: double 10px #EEEEEE;
+}
+p{
+	margin-top: 1.8%;
+	font-size: 18px;
+}
+a{
+	text-decoration: none;
+	color: blue;
+}
+input{
+	margin-top: 1.8%;
+	margin-left: 50%;
+	width: 400px; 
+}
+#image1{
+	width: 52%;
+	height: 500px;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+#TRAVEL{
+	color: white;
+	position: absolute;
+	margin-top: -200px;
+	margin-left: 100px;
+	font-weight: bold;
+}
+#T{
+	background-color: red;
+	font-size: 15px;
+}
+span{
+	background-color: black;
+	font-size: 30px;
+	color: white;
+}
+#image2{
+	margin-top: 1%;
+	width: 40%;
+	height: 500px;
+	margin-left: 3%;
+	margin-right: 2%;
+}
+#NEWS{
+	color: white;
+	position: absolute;
+	margin-top: -200px;
+	margin-left: 900px;
+	font-weight: bold;
+}
+#N{
+	background-color: red;
+	font-size: 15px;
+}
+#image3{
+	margin-top: 1%;
+	width: 100%;
+}
+#A{
+	color: white;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 50px;
+	font-weight: bold;
+	background-color: red;
+	font-size: 15px;
+}
+#image4{
+	margin-top: 1%;
+	width: 100%;
+}
+#B{
+	color: white;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 550px;
+	font-weight: bold;
+	background-color: red;
+	font-size: 15px;
+}
+#image5{
+	margin-top: 1%;
+	width: 100%;
+}
+#L{
+	color: white;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 1000px;
+	font-weight: bold;
+	background-color: red;
+	font-size: 15px;
+}
+.titre{
+	color: black;
+	font-weight: bold;
+	font-size: 25px;
+}
+#div3 figure{
+	margin: 1.5%;
+}
+footer{
+	display: flex;
+	margin-top: 1%;
+	justify-content: space-between;
+	margin-left: 2%;
+}
+#featured{
+	color: white;
+	position: absolute;
+	margin-top: -400px;
+	margin-left: 0px;
+	font-weight: bold;
+	background-color: black;
+	font-size: 25px;
+}
+#div5 figure{
+	display: flex;
+	line-height: 15px;
+}
+#div5 p{
+	font-weight: bolder;
+	font-size: 25px;
+	width: 115%;
+}
+#div6{
+	width: 30%;
+}
+#image6{
+	width: 100%;
+	height: 400px;
+}
+#image7, #image8, #image9{
+	height: 50px;
+	width: 50px;
+	float: left;
+}
+ol, figcaption{
+	font-weight: bolder;
+	font-size: 25px;
+}
+ol li{
+	margin-top: 5px;
+	margin-bottom: 30px;
+}
